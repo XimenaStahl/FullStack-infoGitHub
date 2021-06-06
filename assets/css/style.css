@@ -1,0 +1,18 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    list-style: none;
+}
+
+table {
+    width: 100%;
+}
+
+.tituloRepo {
+    text-align: right;
+}
+
+.listaRepo {
+    color: blue;
+    text-align: right;
+    width: 50%;
+}
